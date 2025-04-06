@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Surya-Annadurai-10/-suryaannadurai-required_package"
+  },
   "scripts": {
     
     "start": "node index.js",
@@ -11,5 +15,5 @@
   "keywords": [],
   "author": "Surya Annadurai",
   "license": "ISC",
-  "description": ""
+  "description": "This package will make ur development 10X faster."
 }
