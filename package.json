@@ -1,0 +1,15 @@
+{
+  "name": "@suryaannadurai/required_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Surya Annadurai",
+  "license": "ISC",
+  "description": ""
+}
